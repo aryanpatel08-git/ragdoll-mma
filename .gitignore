@@ -1,0 +1,16 @@
+# Roblox place files (the game lives in Team Create, not in git)
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo / Wally / tooling
+sourcemap.json
+Packages/
+ServerPackages/
+DevPackages/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
