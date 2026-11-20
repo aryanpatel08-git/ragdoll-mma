@@ -207,6 +207,7 @@ Players roll for cosmetics such as finishing-move animations, gloves, shorts, ro
 - **First arena:** One polished gym cage with clear boundaries, strong lighting, a recognizable color scheme, and room to maneuver. All 6 lobby cages use this design at first.
 - **Later settings:** Rooftop exhibition cage, neon underground venue, or beach tournament — these can become themed servers or a mix of cage skins in one lobby.
 - Keep competitive arena dimensions consistent. Reserve hazards and unusual layouts for party modes.
+- **Fighter model (placeholder, Nov 19):** players spawn as a rounded, faceless ragdoll fighter (black hair block, yellow gloves with white cuffs, waistband, shorts, white shoes) built on a standard R15 rig. It's decent for now but will definitely be redesigned later.
 - **Tone:** Cartoon sports chaos. Oversized gloves, expressive fighters, exaggerated reactions, and funny recovery animations. Realistic injuries or gore are unnecessary. Height and weight variation should read clearly in silhouette.
 
 ## 10. Monetization and the shop menu

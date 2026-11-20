@@ -15,7 +15,7 @@ A Roblox multiplayer MMA brawler: responsive 1v1 cage fights with ragdoll knocko
 
 ## Status
 
-Step 0 (setup). The place is still an empty Baseplate: no scripts or models yet.
+Setup done. In MMA Dev: Jimmy's sample cage (MMAFoundation) and a placeholder ragdoll fighter that every player spawns as (StarterPlayer.StarterCharacter). The fighter design will be redesigned later. Next: the lobby layout.
 
 ## Project layout
 
