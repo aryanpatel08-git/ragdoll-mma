@@ -15,7 +15,15 @@ A Roblox multiplayer MMA brawler: responsive 1v1 cage fights with ragdoll knocko
 
 ## Status
 
-Setup done. In MMA Dev: Jimmy's sample cage (MMAFoundation) and a placeholder ragdoll fighter that every player spawns as (StarterPlayer.StarterCharacter). The fighter design will be redesigned later. Next: the lobby layout.
+As of Nov 19, 2026, in MMA Dev (all built in Studio, not yet in `src/`):
+
+- **Lobby** (`Workspace.Lobby`): gym floor, plain walls, central spawn, 6 cages (copies of Jimmy's cage, text removed) in a ring, and placeholder pads for punching bags, tutorial ring and shop/changing area. Decor references to come.
+- **Fighter**: placeholder ragdoll fighter every player spawns as (`StarterPlayer.StarterCharacter`, avatar appearance off). Will be redesigned.
+- **Walk speed**: 12 (Roblox default is 16).
+- **Lobby UI** (`StarterGui.LobbyHUD`): placeholder buttons only, no functions yet: Shop, Customize, Stats, Quests, money display, settings, Quick Play.
+- **Archived**: Jimmy's original cage is `ServerStorage.CageTemplate`; his earlier gym is `ServerStorage.JimmyArchive.MMAGym`.
+
+Next: cage doors and walk-up entry (Build Step 10).
 
 ## Project layout
 
