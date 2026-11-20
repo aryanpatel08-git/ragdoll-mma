@@ -15,7 +15,7 @@ A Roblox multiplayer MMA brawler: responsive 1v1 cage fights with ragdoll knocko
 
 ## Status
 
-Setup done. In MMA Dev: Jimmy's sample cage (MMAFoundation) and a placeholder ragdoll fighter that every player spawns as (StarterPlayer.StarterCharacter). The fighter design will be redesigned later. Next: the lobby layout.
+Base combat code and the first gym lobby are applied in MMA Dev. The gym has six cage queues, quick play, training interactions, spectator benches and reserved shop/customize stations. The placeholder StarterCharacter remains unchanged. This is an untested prototype: full rounds, counts, ragdolls, progression and production device validation are unfinished. See [implementation status](docs/lobby-status.md).
 
 ## Project layout
 
